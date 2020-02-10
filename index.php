@@ -1,11 +1,12 @@
 <?php
 /**
-* User: Tim
-* Date:5-02-2020
-* Time:11:55
-* Filer: index.php
-*/
+ * User: Tim
+ * Date:5-02-2020
+ * Time:11:55
+ * Filer: index.php
+ */
 ?>
+
 <link href="sub/style.css" type="text/css" rel="stylesheet">
 <body>
 <header>
@@ -28,5 +29,8 @@
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
+    <p>
+
+    </p>
 </main>
 </body>
