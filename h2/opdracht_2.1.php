@@ -6,7 +6,12 @@
  * Filer: index.php
  */
 ?>
+<!doctype HTML>
+<html>
 <link href="../sub/style.css" type="text/css" rel="stylesheet">
+<head>
+    template
+</head>
 <body>
 <header>
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
@@ -33,4 +38,5 @@
     </p>
 </main>
 </body>
+</html>
 
