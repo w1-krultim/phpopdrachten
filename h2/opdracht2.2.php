@@ -22,7 +22,12 @@ $txt11 = "<br>";
 $txt12 = "is";
 $txt13 = "vind je niet";
 ?>
+<!doctype HTML>
+<html>
 <link href="sub/style.css" type="text/css" rel="stylesheet">
+<head>
+    Template
+</head>
 <body>
 <header>
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
@@ -83,3 +88,5 @@ $txt13 = "vind je niet";
         <?php echo  $txt8; ?>
     </p>
 </main>
+</body>
+</html>
