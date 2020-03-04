@@ -22,10 +22,10 @@
         <li>Hoofdstuk 2
             <ul>
                 <li>
-                    <a href="opdracht_2.1.php">Opdracht  2.1</a>
+                    <a href="../h2/opdracht_2.1.php">Opdracht  2.1</a>
                 </li>
                 <li>
-                    <a href="opdracht_2.1.php">Opdracht 2.2</a>
+                    <a href="../h2/opdracht2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>
